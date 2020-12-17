@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<? xml model schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="https://oxgarage.tei-c.org/">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alice: Page 80-81</title>
+        <author>Lewis Carroll</author>
+      </titleStmt>
+      <PublicationStmt>
+        <p>RTU Introduction to Digital Humanities</p>
+      </PublicationStmt>
+      <sourceDesc>
+  <ab>The text is taken from Alice's Adventures in
+  Wonderland by Lewis Carroll, Puffin Penguin 2014 Edition</ab>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+<text>
+  <body>
+    <div type="chapter" xml:id="page80-81">
+<p><quote>Treacle,</quote> said <character>the Dormouse</character>, without considering at
+all, this time.</p>
+<p><quote>I want a clean cup,</quote> interrupted <character>the Hatter</character>:
+<quote>let’s all move one place on.</quote></p>
+<p>He moved on as he spoke, and <character>the Dormouse</character> followed him: <character>the March
+Hare</character> moved into <character>the Dormouse’s</character> place, and <character>Alice</character> rather unwillingly took
+the place of <character>the March Hare</character>. <character>The Hatter</character> was the only one who got any
+advantage from the change; and <character>Alice</character> was a good deal worse off than
+before, as <character>the March Hare</character> had just upset the milk-jug into his
+plate.</p>
+<p><character>Alice</character> did not wish to offend <character>the Dormouse</character> again, so she began very
+cautiously: <quote>But I don’t understand. Where did they draw the
+treacle from?</quote></p>
+<p><quote>You can draw water out of a water-well,</quote> said <character>the
+Hatter</character>; <quote>so I should think you could draw treacle out of a
+treacle-well—eh, stupid?</quote></p>
+<p><quote>But they were <pun><hi rendition="simple:bold">in the
+well</hi></pun><note type="editorial">
+<list type="ordered:arabic">
+  <item n="283">
+    <p> a semantic wordplay</p>
+  </item>
+</list>
+</note>phonetic wordplay;283</p>
+
+,</quote> <character>Alice</character> said to <character>the Dormouse</character>, not choosing to notice
+this last remark.</p>
+<p><quote>Of course they were,</quote> said <character>the Dormouse</character>:
+<quote><pun><hi rendition="simple:bold">well in.</hi></pun></quote></p>
+<p>This answer so confused poor <character>Alice</character>, that she let <character>the Dormouse</character> go on
+for some time without interrupting it.</p>
+<p><quote>They were learning to draw,</quote> <character>the Dormouse</character> went on,
+yawning and rubbing its eyes, for it was getting very sleepy; <quote>and
+they drew all manner of things—everything that begins with an
+M——</quote></p>
+<p><quote>Why with an M?</quote> said <character>Alice</character>.</p>
+<p><quote>Why not?</quote> said the March Hare.</p>
+<p><character>Alice</character> was silent.</p>
+<p><character>The Dormouse<character> had closed its eyes by this time, and was going off into
+a doze; but, on being pinched by <character>the Hatter<character>, it woke up again with a
+little shriek, and went on: <quote>——that begins with an M, such as
+mousetraps, and the moon, and memory, and muchness—you know you say
+things are <quote>much of a muchness</quote> 13—did you ever see such a
+thing as a drawing of a muchness!</quote></p>
+<p><quote>Really, now you ask me,</quote> said <character>Alice</character>, very much
+confused, <quote>I don’t think——</quote></p>
+<p><quote>Then you shouldn’t talk,</quote> said <character>the Hatter</character>.</p>
+<p>This piece of rudeness was more than <character>Alice</character> could bear:</p>
+</div>
+
+<div type="entry" xml:if="Note4">
+<p><hi rendition="simple:italic">Sticky note: well in/draw well,
+Homonymy<note>
+  <p>Working note: in markdown file the note tag did not work, however it was rendered in the xml file as a footnote anyway.</p>
+</note></hi></p>
+
+<p><figure>
+  <head>page 80-81</head>
+  <graphic url="/page80-81.jpg" />
+  <figDesc>fig:</figDesc>
+</figure></p>
+
+</body>
+</text>
+
+</TEI>

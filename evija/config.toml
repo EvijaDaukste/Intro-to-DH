@@ -1,0 +1,4 @@
+baseURL = "http://introduction.dh.Alice.org/"
+languageCode = "en-us"
+title = "Intro in DH: Alice's Adventures in Wonderland and University-land"
+theme = "ananke"

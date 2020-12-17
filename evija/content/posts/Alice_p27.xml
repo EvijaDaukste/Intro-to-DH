@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<? xml model schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="https://oxgarage.tei-c.org/">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alice: Page 27</title>
+        <author>Lewis Carroll</author>
+      </titleStmt>
+      <PublicationStmt>
+        <p>RTU Introduction to Digital Humanities</p>
+      </PublicationStmt>
+      <sourceDesc>
+  <ab>The text is taken from Alice's Adventures in
+  Wonderland by Lewis Carroll, Puffin Penguin 2014 Edition</ab>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+    <div type="chapter" xml:id="page27">
+<p>had to be patted on the back. However, it was over at last, and they
+sat down again in a ring, and begged <character>the Mouse</character> to tell them something
+more.</p>
+<p><quote>You promised to tell me your history, you know,</quote> said
+<character>Alice</character>, <quote>and why it is you hate—C and D,</quote> she added in a
+whisper, half afraid that it would be offended again. <quote>Mine is a
+long and a sad <pun><hi rendition="simple:bold">tale</hi></pun>
+<note type="editorial">
+<list type="ordered:arabic">
+  <item n="279">
+    <p> a phonetical wordplay of the words</p>
+  </item>
+</list>
+</note>
+!</quote>said <character>the
+Mouse</character>, turning to <character>Alice</character>, and sighing. <quote>It is a long tail,
+certainly,</quote> said <character>Alice</character>, looking down with wonder at <character>the Mouse’s</character>
+<pun><hi rendition="simple:bold">tail</hi></pun>: <quote>but why do you call it
+sad?</quote> And she kept on puzzling about it while <character>the Mouse</character> was
+speaking, so that her idea of the tale was something like this:——</p>
+</div>
+
+<div type="entry" xml:id="Note1">
+<p><hi rendition="simple:italic">Sticky note: tale/tail</hi></p>
+</div>
+
+
+<p><figure>
+  <head>page 27</head>
+  <graphic url="/page27.jpg" />
+  <figDesc>fig:</figDesc>
+</figure></p>
+
+</body>
+</text>
+
+
+
+</TEI>

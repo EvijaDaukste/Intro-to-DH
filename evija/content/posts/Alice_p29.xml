@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<? xml model schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="https://oxgarage.tei-c.org/">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alice: Page 29</title>
+        <author>Lewis Carroll</author>
+      </titleStmt>
+      <PublicationStmt>
+        <p>RTU Introduction to Digital Humanities</p>
+      </PublicationStmt>
+      <sourceDesc>
+  <ab>The text is taken from Alice's Adventures in
+  Wonderland by Lewis Carroll, Puffin Penguin 2014 Edition</ab>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+<text>
+  <body>
+    <div type ="level1" xml:id="Alice_p29">
+      <head>Page 29</head>
+    <div type ="chapter" xml:id="Chapter 3">
+<p><quote>You are not attending!</quote> said the Mouse to Alice,
+severely. <quote>What are you thinking of?</quote></p>
+
+<p><quote>I beg your pardon,</quote> said Alice very humbly: <quote>you
+had got to the fifth bend, I think?</quote></p>
+
+<p><quote>I <hi rendition="simple:bold">had not</hi>!</quote> cried the
+Mouse, sharply and very angrily.</p>
+
+<p><quote><hi rendition="simple:bold">A knot</hi>!<note type='editorial'>
+<list type="ordered:arabic">
+  <item n="281">
+    <p> a wordplay on with the sound 'n' and  pronunciation of 'kn'</p>
+  </item>
+</list>
+</note>phonetic wordplay;281</p>
+<p></quote> said Alice,
+always ready to make herself useful, and looking anxiously about her.
+<quote>Oh, do let me help to undo it!</quote></p>
+
+<p><quote>I shall do nothing of the sort,</quote> said the Mouse,
+getting up and walking away. <quote>You insult me by talking such
+nonsense!</quote></p>
+
+<p><quote>I didn’t mean it!</quote> pleaded poor Alice. <quote>But
+you’re so easily offended, you know!</quote></p>
+
+<p>The Mouse only growled in reply.</p>
+
+<p><quote>Please come back, and finish your story!</quote> Alice called
+after it. And the others all joined in chorus <quote>Yes, please
+do!</quote> But the Mouse only shook its head impatiently, and walked a
+little quicker.</p>
+
+<p><quote>What a pity it wouldn’t stay!</quote> sighed the Lory, as soon
+as it was quite out of sight. And an <hi rendition="simple:bold">old
+Crab</hi> <note type="editorial">
+<list type="ordered:arabic">
+  <item n="280">
+    <p> a wordplay on the nautical creatures</p>
+  </item>
+</list>
+</note>phonetic wordplay;280</p>
+<p>took the opportunity of saying to her daughter <quote>Ah, my
+dear! Let this be a lesson to you never to lose your temper!</quote>
+<quote>Hold your tongue, Ma!</quote> said the young Crab, a little
+snappishly. <quote>You’re enough to try the patience of
+<hi rendition="simple:bold">an oyster</hi>!</quote></p>
+
+<p><quote>I wish I had our Dinah here, I know I do!</quote> said Alice
+aloud, addressing nobody in particular. <quote> She’d soon fetch it
+back!</quote></p>
+
+
+</div>
+
+<div type="entry" xml:id="Note2">
+<p><hi rendition="simple:italic">Sticky note: had not/ a knot | old
+Crab/ an oyster</hi></p>
+</div>
+
+<p><figure>
+  <head>page 29</head>
+  <graphic url="/page29.jpg" />
+  <figDesc>fig:</figDesc>
+</figure></p>
+
+
+</body>
+</text>
+
+
+</TEI>
