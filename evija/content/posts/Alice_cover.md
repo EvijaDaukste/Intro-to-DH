@@ -21,5 +21,4 @@ Since my university colleagues and I did not have the necessary tools to do the
 tagging and noting digitally, all the notes are handwritten in the text and
 added with sticky notes on the page margins.
 
-These notes are about literary devices in the text of "Alice's Adventures in Wonderland" and in this blog I will try to digitize these notes with the help of
-the tools I have learned in the Introduction in Digital Humanities class.
+These notes are about puns in the text of "Alice's Adventures in Wonderland" and in this blog I will try to digitize these notes with the help of the tools I have learned in the Introduction in Digital Humanities class.
